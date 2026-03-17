@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sadique Hassain  
+# 👋 Hi, I'm Sadique Hussain  
 
 🚀 **Founder of Comestro Techlabs Pvt. Ltd.**  
 💻 Software Developer | 🧠 Programming Mentor | 🎓 IT Trainer | 🏗️ System Architect  
